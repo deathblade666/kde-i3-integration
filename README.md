@@ -1,3 +1,3 @@
-# KDE-I3-Intrgration
+# KDE-I3-Integration
 
 
