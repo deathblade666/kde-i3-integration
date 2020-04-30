@@ -1,6 +1,7 @@
 # KDE-I3-Integration
 
 Prerecquisites:
+
 -Rofi
 -I3wm
 -kde
