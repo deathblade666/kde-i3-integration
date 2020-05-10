@@ -16,7 +16,7 @@ set $mod Mod4
 font pango:monospace 8
 
 # (No) Title Bars
-for_window [class="^.*"] border pixel 0
+for_window [class="^.*"] border pixel 3
 
 # Set walpaper
 exec --no-startup-id nitrogen --restore
