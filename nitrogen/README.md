@@ -1,4 +1,4 @@
-Nitrogen Configuration
+# Nitrogen Configuration
   - I have uploaded a templates for the following files for easy configuration.
     - bg-saved.cfg
       - This file tells nitrogen the location and how to handle the image you set as your wallpaper.
