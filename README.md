@@ -2,7 +2,7 @@
 
 Prerequisites:
 
-Rofi
+Rofi (replaces dmenu) - optional
   - the Rofi config is forked from ChrisTitusTech (https://github.com/ChrisTitusTech/material-awesome/blob/master/configuration/rofi.rasi)
 
 I3wm
@@ -11,10 +11,10 @@ I3wm
 KDE
   -  https://kde.org/
 
-Nitrogen (for wallpaper)
+Nitrogen (for wallpaper) - optional
   -  https://github.com/l3ib/nitrogen
 
-Autotiling
+Autotiling - optional
   - thanks to nwg-poitr!! (https://github.com/nwg-piotr/autotiling)
 
 # Installation
