@@ -18,8 +18,10 @@ Autotiling - optional
   - thanks to nwg-poitr!! (https://github.com/nwg-piotr/autotiling)
 
 # Installation
-clone repo to your .config directory
+clone repo to your .config directory 
 
-In kde settings add a new startup script and point to the kde-i3.sh located in the scripts folder
+```git clone https://github.com/deathblade666/kde-i3-integration.git ~/.config/ ```
+
+In kde settings add a new startup script and point to the kde-i3.sh located at ~/.config/scripts/kde-i3.sh
 
 More to come... Working on a script to take care of installation and updates.
