@@ -1,4 +1,4 @@
-# KDE-I3-Integration
+# KDE-I3-Setup
 
 Prerequisites:
 
