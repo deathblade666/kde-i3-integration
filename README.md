@@ -20,7 +20,7 @@ Autotiling - optional
 # Installation
 clone repo to your .config directory 
 
-```git clone https://github.com/deathblade666/kde-i3-integration.git ~/.config/kde-i3-integration ```
+```git clone https://github.com/deathblade666/kde-i3-setup.git ~/.config/kde-i3 ```
 
 In kde settings add a new startup script and point to the kde-i3.sh located at ~/.config/scripts/kde-i3.sh
 
