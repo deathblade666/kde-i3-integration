@@ -11,9 +11,6 @@ I3wm
 KDE
   -  https://kde.org/
 
-Nitrogen (for wallpaper) - optional
-  -  https://github.com/l3ib/nitrogen
-
 Autotiling - optional
   - thanks to nwg-poitr!! (https://github.com/nwg-piotr/autotiling)
 
@@ -25,7 +22,3 @@ clone repo to your .config directory
 In kde settings add a new startup script and point to the kde-i3.sh located at ~/.config/scripts/kde-i3.sh
 
 logout then back in to see changes
-
-
-
-More to come... Working on a script to take care of installation and updates.
